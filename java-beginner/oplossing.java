@@ -5,7 +5,7 @@ class Main {
     public static void main(String[] args) {
         boolean user_right = true;
         while (user_right) {
-            System.out.println("Raadt kop (k) of munt (m)!");
+            System.out.println("Raad kop (k) of munt (m)!");
 
             Scanner user_input = new Scanner(System.in);
             String user_guess = user_input.next();
